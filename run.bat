@@ -1,0 +1,2 @@
+cd CUsersmmaatagaeclipse-workspaceEbanking-Projekt
+mvn clean install
